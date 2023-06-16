@@ -1,7 +1,7 @@
 ## <h1 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="15" align="center"/> Seja bem vindo!<h1/>
 <h3 align="center">🙋‍♀️ Meu nome é Graziely Jacob, tenho 24 anos de idade!<h3>
 <h3 align="center">🔥 Eu acredito no poder do esforço e dedicação <h3/>
-<h3 align="center">🤩 Atualmente estou estudando Python através da escola de programação Trybe.<h3/>
+<h3 align="center">🤩 Atualmente estou estudando análise de dados e fazendo o curso CC50 sobre ciência da computação.<h3/>
 <h3 align="center">⏳ Logo iniciarei os estudos em JAVA<h3/>
 <h3 align="center">🚀 Tenho vários projetos prontos:<h3/>
 <div align="center">
